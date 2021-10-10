@@ -1,2 +1,7 @@
-# lox
-An implementation of Lox, from Crafting Interpreters
+# Lox
+An implementation of Lox, from [Crafting Interpreters](craftinginterpreters.com).
+
+Work in progress!
+
+Extra challenges implemented:
+- TBA
